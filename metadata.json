@@ -1,0 +1,6 @@
+{
+  "name": "Banlgar Ghor Remodeling",
+  "description": "Premium residential remodeling and renovation company serving New York City and surrounding areas with thoughtful design and exceptional craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
